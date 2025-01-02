@@ -1,6 +1,6 @@
-###[Mark Down Reference](https://daringfireball.net/projects/markdown/syntax)
+### [Mark Down Reference](https://daringfireball.net/projects/markdown/syntax)
 
-###[Pro Git book, written by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
+### [Pro Git book, written by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 <!--
 **j-ekvfnocm/j-ekvfnocm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
