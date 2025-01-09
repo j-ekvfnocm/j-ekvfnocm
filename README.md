@@ -1,6 +1,9 @@
 ### [Mark Down Reference](https://daringfireball.net/projects/markdown/syntax)
 
 ### [Pro Git book, written by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
+
+### git server
+#### [ubuntu server](https://ubuntu.com/server/docs/openssh-server)
 <!--
 **j-ekvfnocm/j-ekvfnocm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
